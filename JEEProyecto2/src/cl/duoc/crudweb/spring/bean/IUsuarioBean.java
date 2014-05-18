@@ -18,4 +18,6 @@ public interface IUsuarioBean {
     void updateUser(UsuarioTO usuarioTO);
 
     void deleteUser(UsuarioTO usuarioTO);
+    
+    //Comentario de cambios
 }
